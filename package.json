@@ -1,0 +1,13 @@
+{
+  "name": "routeweather",
+  "version": "1.0.0",
+  "description": "API that delivers a best time to travel with least precipitation",
+  "main": "index.js",
+  "repository": "https://github.com/ryanshores/routeweather.git",
+  "author": "Ryan Shores",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.2.5",
+    "graphql": "^14.0.2"
+  }
+}
